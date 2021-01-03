@@ -1,2 +1,8 @@
 # Falcon-Dissassembler
-epikness
+expected release:idk 
+
+#features
+instant scanning 
+dissassembler
+assembly decompiler
+hot functions
