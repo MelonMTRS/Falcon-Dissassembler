@@ -2,7 +2,7 @@
 expected release: idk 
 
 # desc
-It's an x86 dissassembler.
+It's an x86 dissassembler and decompiler.
 
 # features
 * instant scanning 
