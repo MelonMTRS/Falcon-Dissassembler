@@ -1,5 +1,5 @@
 # Falcon-Dissassembler
-expected release: may or march 2021 at most but possibly sooner.
+expected release: 4/20/21 - 5/10/21. << prolly lol
 
 # desc
 It's an x86 - x64 dissassembler and decompiler
