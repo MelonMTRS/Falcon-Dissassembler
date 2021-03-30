@@ -8,6 +8,5 @@ It's an x86 - x64 dissassembler and decompiler
 # features
 * instant scanning 
 * dissassembler
-* decumpiler
 * assembly decompiler
 * hot functions
